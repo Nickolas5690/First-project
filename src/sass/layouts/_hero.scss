@@ -2,13 +2,11 @@
     position: relative;
     padding-top: 180px;
     padding-bottom: 127px;
-    background-image: url(/img/hero-bg.jpg),
-        url(/img/hero-bg-2x.jpg);
+    background-image: url(/src/images/background-hero.jpg),
+        url(/src/images/background-hero-2x.jpg);
     background-repeat: no-repeat;
     background-position: 70% 90%;
     background-size: cover;
-    box-shadow: inset 0px 8px 20px rgba(134, 229, 67, 0.5),
-        0px 4px 10px rgba(255, 255, 255, 0.1);
 }
 
 .container-hero {
